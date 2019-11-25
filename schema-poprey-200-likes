@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org/",
+"@type": "Product",
+"name":"Buy 200 Instagram Likes", //название продукта
+"image": "https://poprey.com/static/media/instagram.0059dac6.svg", //картинка продукта
+"description": "Buy 200 Instagram Likes ✅ ║Instant and Gradual delivery║ ⚡ Get 200 Likes for the cheapest price║Instant Start【Poprey Real Instagram Likes】",
+"url": "https://poprey.com/instagram_200_likes", //url продукта
+"sku": "200", //уникальный номер продукта
+"mpn": "200", //уникальный номер продукта
+"brand": {
+"@type": "Brand", //бренд
+"name": "Poprey.com"
+},
+"offers": {
+ "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "2.60",
+    "priceCurrency": "USD"
+}
+}
+</script>
